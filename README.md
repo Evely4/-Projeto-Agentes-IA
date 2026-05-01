@@ -1,5 +1,5 @@
 🚀 Sistema de Monitoramento com Orquestração de Agentes de IA
-Este projeto representa o estado da arte na convergência entre Engenharia de Computação, Desenvolvimento Python e Automação Inteligente (RPA). Desenvolvido por Maria Evely da Silva, estudante do 9º período de Engenharia na UNIVESP, o sistema utiliza uma estrutura inovadora de multi-agentes de IA para gerenciar o ciclo de vida do desenvolvimento de software.
+Este projeto representa o estado da arte na convergência entre Engenharia de Computação, Desenvolvimento Python e Automação Inteligente (RPA). Desenvolvido por Maria Evely da Silva, estudante do 10º período de Engenharia na UNIVESP, o sistema utiliza uma estrutura inovadora de multi-agentes de IA para gerenciar o ciclo de vida do desenvolvimento de software.
 
 👩‍💻 Sobre a Autora
 Bacharel em Direito, Historiadora e futura Engenheira de Computação. Este projeto é um marco no meu portfólio, demonstrando a aplicação prática de:
